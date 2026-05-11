@@ -52,16 +52,14 @@ Included systems:
 ## Preview
 
 <p align="center">
-  <img src="media/Void1.png" width="80%" />
+  <img src="media/Immortal1.png" width="80%" />
 </p>
 
 <p align="center">
-  <img src="media/Void2.png" width="80%" />
+  <img src="media/Immortal2.png" width="80%" />
 </p>
 
-<p align="center">
-  <img src="media/Void3.png" width="80%" />
-</p>
+
 
 ---
 
