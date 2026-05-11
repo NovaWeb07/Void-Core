@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+issueTrackerURL="https://github.com/YourUsername/VoidVanguard/issues"
+
+[[mods]]
+modId="voidvanguard"
+version="1.0.0"
+displayName="Void Vanguard"
+authors="allro"
+description='''
+Transform into a void entity with purple outline and hearts.
+'''
+
+[[dependencies.voidvanguard]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.voidvanguard]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"
